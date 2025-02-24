@@ -3,7 +3,7 @@
     "description": "shows on the order detailed information on shop back-end",
     "type":        "oxideshop-module",
     "homepage":    "https://www.novalnet.de",
-    "license":     "GPL-3.0"
+    "license":     "GPL-3.0",
     "authors":     [
         {
             "name":  "Novalnet AG",
