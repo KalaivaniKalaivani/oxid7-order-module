@@ -4,7 +4,6 @@
     "type":        "oxideshop-module",
     "homepage":    "https://www.novalnet.de",
     "license":     "GPL-3.0",
-    "authors":    "Novalnet AG",
      "require": {
         "php": "^8.1",
         "symfony/yaml" : "> 3"
