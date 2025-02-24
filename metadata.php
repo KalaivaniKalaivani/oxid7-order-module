@@ -10,7 +10,7 @@
   */
 $aModule = [
 		'id' => 'novalnetOrder',
-		'title' => 'Novalnet Orders'
+		'title' => 'Novalnet Orders',
 		'description' => [
 			'en' => 'Shows the only Novalnet Payment Orders in Shop Admin page',
 			'de' => 'Shows the only Novalnet Payment Orders in Shop Admin page'
