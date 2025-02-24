@@ -4,12 +4,7 @@
     "type":        "oxideshop-module",
     "homepage":    "https://www.novalnet.de",
     "license":     "GPL-3.0",
-    "authors":     [
-        {
-            "name":  "Novalnet AG",
-            "email": "technic@novalnet.de"
-        }
-    ],
+    "authors":    "Novalnet AG",
     "extra":       {
         "oxideshop": {
             "target-directory": "novalnet/order"
