@@ -1,1 +1,9 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<OX>
+    <OXMENU id="NAVIGATION_ESHOPADMIN">
+        <MAINMENU id="mxnovalnetorders">
+            <SUBMENU id="mxdisplaynovalnetorders" cl="admin_order" list="order_list">
+            </SUBMENU>
+        </MAINMENU>
+    </OXMENU>
+</OX>
